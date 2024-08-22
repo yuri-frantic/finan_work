@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="finalwork_package" type="topic_lidar.py" name="topic_li"/>
+  <node pkg="finalwork_package" type="topic_gamepad.py" name="topic_gp"/>
+  <node pkg="finalwork_package" type="topic_paspberry.py" name="topic_pb" output="screen"/>
+</launch>
