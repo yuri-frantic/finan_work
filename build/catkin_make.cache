@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/yuri/catkin_ws/src/finalwork/devel -DCMAKE_INSTALL_PREFIX=/home/yuri/catkin_ws/src/finalwork/install -G Unix Makefiles

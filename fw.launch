@@ -1,0 +1,7 @@
+<launch>
+  <node pkg="finalwork_package" type="topic_left_wheel" name="topic_lw"/>
+  <node pkg="finalwork_package" type="topic_right_wheel" name="topic_rw"/>
+  <node pkg="finalwork_package" type="topic_lidar" name="topic_li"/>
+  <node pkg="finalwork_package" type="topic_gamepad" name="topic_gp"/>
+  <node pkg="finalwork_package" type="topic_paspberry" name="topic_pb"/>
+</launch>
